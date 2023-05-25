@@ -16,14 +16,13 @@
       - Spring Security
       - Spring Data JPA
     3. DB : H2, MySQL
-    4. CI/CD : 미정
     
 ### 4. 구성원
     1. User domain
-      - 이진혁 HARIBO033
-      - 조윤영 dont-octopus
+      - 이진혁
+      - 조윤영
       
     2. Schedule domain
-      - 이승환 seocho507
-      - 조유성 yuseong00
-      - 이재훈 flyingRKO
+      - 이승환
+      - 조유성 
+      - 이재훈 
