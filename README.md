@@ -15,7 +15,7 @@
     2. Spring Boot 2.7.9
       - Spring Security
       - Spring Data JPA
-    3. DB : H2, MySQL
+    3. DB : H2, MariaDB
     
 ### 4. 구성원
     1. User domain
